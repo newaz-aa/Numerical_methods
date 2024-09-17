@@ -1,3 +1,5 @@
+% Searching
+
 tic
 a= randi(100000,1,1000000);  % creating a random 1D array with 1 million parameters
 val= 12000;
